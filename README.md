@@ -18,11 +18,11 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: S Santhosh
-RegisterNumber: 22009296 
+Developed by: 
+RegisterNumber:
 */
 ```
-)
+
 ```
 ## Output:
 
